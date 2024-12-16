@@ -1,16 +1,16 @@
-# Mein Projektname
+# Der einzig wahre Shit
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Beschreibung
 
-Dies ist ein **kurze Beschreibung deines Projekts**. Hier kannst du die Hauptfunktionen und Ziele deines Projekts erläutern. Was macht dein Projekt besonders oder einzigartig? Wer könnte es verwenden?
+Testfeld für meine wachsende und inkompetenz des Lebens. Hier ist halt random **shit**, um zu lernen, wie das Leben als hipper IT'ler funktioniert. 
 
 ## Features
 
-- **Feature 1**: Kurze Beschreibung des Features.
-- **Feature 2**: Kurze Beschreibung des Features.
-- **Feature 3**: Kurze Beschreibung des Features.
+- **Feature 1**: Funktioniert, weil ich Sau mit shitgpt gearbeitet habe.
+- **Feature 2**: Sollte auch für Menschen mit mehr als zwei Chromosomen benutzbar sein.
+- **Feature 3**: Kostenlos wie eine Dorfmatratze.
 
 ## Installation
 
@@ -23,7 +23,7 @@ So kannst du dieses Projekt auf deinem eigenen Computer installieren und verwend
 
 ---
 
-### **Erklärung der Abschnitte:**
+### **Erklärung der Abschnitte von Shitgpt meinem besten Freund :( :**
 
 - **Projektname und Badge**: Hier kannst du den Namen deines Projekts angeben. Badges (z. B. für Lizenzinformationen) sind optional, aber sie helfen, wichtige Details hervorzuheben.
   
