@@ -18,7 +18,7 @@ So kannst du dieses Projekt auf deinem eigenen Computer installieren und verwend
 
 1. Klone das Repository:
    ```bash
-   git clone https://github.com/dein-benutzername/mein-projektname.git
+   git clone https://github.com/Sh4msher/Prin.git
 
 
 ---
